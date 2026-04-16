@@ -6,7 +6,7 @@ A machine learning system for classifying breast tumors as malignant or benign b
 
 ## App Interface
 
-(<img width="1061" height="767" alt="Screenshot 2026-04-16 194405" src="https://github.com/user-attachments/assets/e19cee7d-821f-4f07-b943-8d8f2be25500" />)
+<img width="1061" height="767" alt="Screenshot 2026-04-16 194405" src="https://github.com/user-attachments/assets/e19cee7d-821f-4f07-b943-8d8f2be25500" />
 
 The web application provides a physician-facing login interface with role-based access and real-time tumor classification powered by the trained Logistic Regression model.
 ---
